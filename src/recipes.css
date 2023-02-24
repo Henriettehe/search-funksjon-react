@@ -54,3 +54,8 @@ main > article {
 .recipe-view h2 {
     width: 100%;
 }
+
+.ingredients {
+    width: 30px;
+    height: 30px;
+}
